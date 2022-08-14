@@ -1,4 +1,4 @@
-I am a **full-stack developer** with a passion for the web, accessibility, education, storytelling, and space! I write at [auroratide.com](https://auroratide.com), cross-posted on [dev.to](https://dev.to/auroratide) with thousands of views.
+I am a **full-stack developer** with a passion for the web, accessibility, education, storytelling, and space! I write at [auroratide.com](https://auroratide.com), cross-posted on [dev.to](https://dev.to/auroratide).
 
 Here are some of my favorite repos:
 
